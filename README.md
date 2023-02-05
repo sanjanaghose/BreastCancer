@@ -60,9 +60,7 @@ which are linear and some are nominal.
 9. breast-quad: left-up, left-low, right-up, right-low, central.
 10. irradiat: yes, no
 8. Missing Attribute Values: (denoted by "?")
-Attribute #: Number of instances with missing values:
-6. 8
-9. 1.
+Attribute #: Number of instances with missing values:8,1
 9. Class Distribution:
 1. no-recurrence-events: 201 instances
 2. recurrence-events: 85 instances
